@@ -77,7 +77,7 @@ Dokümanı takip edilerek argo cd kurulumu yapıyoruz. Kubernetese kurduğumuz a
 
 New App diyip gerekli adımları girerek deploymentı tamamlıyoruz. 
 
-![ArgoCD](./images/ArgocdDeploy.png)
+![ArgoCD](./images/ArgocdDeploy.jpg)
 
 
 Daha sonra autoscalingi test etmek için uygulamalardan birinin deploymentını editleyip replica sayısını 20ye çıkarıyoruz ve karpenterın 2 node daha oluşturduğunu görüyoruz.
