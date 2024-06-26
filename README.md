@@ -1,5 +1,5 @@
 
-# Terraform ile AWS Infrasutructure
+# Terraform ile AWS Infrastructure
 
 Bu proje, AWS üzerinde bir altyapı kurmak için Terraform kullanarak oluşturulmuş bir modüler yapı içerir. Bu yapı, çeşitli modülleri bir araya getirerek EC2, VPC, OpenVPN, EKS ve RDS gibi AWS hizmetlerini yönetir.
 
