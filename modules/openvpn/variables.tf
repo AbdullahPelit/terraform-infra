@@ -1,0 +1,11 @@
+variable "vpc_id" {}
+variable "vpc_cidr" {}
+variable "environment" {}
+variable "name" {}
+variable "volume_size" {}
+variable "volume_type" {}
+variable "instance_type" {}
+variable "subnet_id" {}
+variable "instance_role" {}
+variable "ec2_keypair" {}
+variable "public_ip" {}
