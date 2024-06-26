@@ -7,7 +7,7 @@ variable "environment" {
 variable "project_name" {
   description = "Project/Domain name"
   type        = string
-  default     = "case"
+  default     = "test"
 }
 
 variable "location" {
@@ -19,7 +19,7 @@ variable "location" {
 variable "account_id" {
   description = "AWS Account ID"
   type        = string
-  default     = "654654485413"
+  default     = "111111111"
 
 }
 
